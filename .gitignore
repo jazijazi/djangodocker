@@ -1,0 +1,11 @@
+*.json
+*.log
+.env
+dbdata/
+static/*
+venv/
+db.sqlite3
+__pycache__/
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid

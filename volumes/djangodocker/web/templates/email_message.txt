@@ -1,0 +1,4 @@
+Hello  {{name|safe}}
+Here is copy of your email text
+{{body|safe}}
+Thank You!
